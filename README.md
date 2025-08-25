@@ -7,7 +7,7 @@
 Demo aplikasi gencidev
 
 ## ✨ Fitur
-
+- API Public digunakan: https://dummyjson.com/
 - ✅ Fitur get list Api Public
 - ✅ Fitur get detail
 - ✅ Fitur save data local with Room
