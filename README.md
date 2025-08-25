@@ -22,13 +22,13 @@ Demo aplikasi gencidev
 ### Langkah-langkah
 
 1. **Clone Repository**
-   git clone https://github.com/ucitech13/gencidev.git
-   cd gencidev
+   - git clone https://github.com/ucitech13/gencidev.git
+   - cd gencidev
    
 2. **Buka Proyek di Android Studio**
     - Buka Android Studio
     - Pilih "Open an existing project"
     - Arahkan ke folder proyek yang telah di-clone
     - Tunggu hingga Gradle selesai membangun proyek
-    
+
 3. **Jalankan Aplikasi**
