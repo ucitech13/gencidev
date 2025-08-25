@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demogenci</string>
+    <string name="pull_down">Tarik kebawah untuk mengulang</string>
+    <string name="contentDescRV">recyclerview</string>
+</resources>
